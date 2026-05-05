@@ -1,16 +1,11 @@
-# Meu Projeto Streamlit
-
-Este projeto foi criado com Streamlit.
-
-## 🚀 Como Executar o Projeto
+Como Executar o Projeto
 
 Siga os passos abaixo para clonar este repositório e configurar o ambiente em sua máquina local.
-
+```bash
 ### 1. Clone o repositório
 
 Abra seu terminal e execute o comando para fazer uma cópia do projeto:
 
-```bash
 git clone https://github.com/josephgabriel/Streamlit.git
 
 2. Acesse a pasta do projeto
