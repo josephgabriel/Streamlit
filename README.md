@@ -2,7 +2,7 @@ Como Executar o Projeto
 
 Siga os passos abaixo para clonar este repositório e configurar o ambiente em sua máquina local.
 ```bash
-### 1. Clone o repositório
+1. Clone o repositório
 
 Abra seu terminal e execute o comando para fazer uma cópia do projeto:
 
